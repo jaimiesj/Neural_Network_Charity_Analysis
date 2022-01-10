@@ -1,4 +1,4 @@
-# Neural_Network_Charity_Analysis
+# Neural Network Charity Analysis
 
 ## Overview of analysis
 The purpose of this analysis was to determine, through neural network modeling, which organiztions would be successfully if they were funded by this charity
